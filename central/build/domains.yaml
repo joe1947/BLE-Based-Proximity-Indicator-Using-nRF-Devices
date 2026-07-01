@@ -1,7 +1,0 @@
-default: central
-build_dir: C:/ncs/v2.8.0/zephyr/samples/bluetooth/central/build
-domains:
-  - name: central
-    build_dir: C:/ncs/v2.8.0/zephyr/samples/bluetooth/central/build/central
-flash_order:
-  - central
