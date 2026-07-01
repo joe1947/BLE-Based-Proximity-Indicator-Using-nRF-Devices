@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/ncs/v2.8.0/zephyr/samples/bluetooth/central/build/_sysbuild/sysbuild/images/CMakeFiles/central"
+		},
+		{
+			"file" : "C:/ncs/v2.8.0/zephyr/samples/bluetooth/central/build/_sysbuild/sysbuild/images/CMakeFiles/central.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.8.0/zephyr/samples/bluetooth/central/build/_sysbuild/sysbuild/images/CMakeFiles/central-complete.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.8.0/zephyr/samples/bluetooth/central/build/_sysbuild/sysbuild/images/central-prefix/src/central-stamp/central-build.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.8.0/zephyr/samples/bluetooth/central/build/_sysbuild/sysbuild/images/central-prefix/src/central-stamp/central-configure.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.8.0/zephyr/samples/bluetooth/central/build/_sysbuild/sysbuild/images/central-prefix/src/central-stamp/central-download.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.8.0/zephyr/samples/bluetooth/central/build/_sysbuild/sysbuild/images/central-prefix/src/central-stamp/central-install.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.8.0/zephyr/samples/bluetooth/central/build/_sysbuild/sysbuild/images/central-prefix/src/central-stamp/central-mkdir.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.8.0/zephyr/samples/bluetooth/central/build/_sysbuild/sysbuild/images/central-prefix/src/central-stamp/central-patch.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.8.0/zephyr/samples/bluetooth/central/build/_sysbuild/sysbuild/images/central-prefix/src/central-stamp/central-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"central"
+		],
+		"name" : "central"
+	}
+}
