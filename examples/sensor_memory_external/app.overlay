@@ -1,0 +1,18 @@
+/ {
+    zephyr,user {
+        io-channels = <&adc 0>;
+    };
+};
+
+&mx25r64 {
+    partitions {
+        compatible = "fixed-partitions";
+        #address-cells = <1>;
+        #size-cells = <1>;
+
+        pressure_partition: partition@0 {
+            label = "pressure_partition";
+            reg = <0x00000000 0x00001000>;   /* 4 KB */
+        };
+    };
+};
